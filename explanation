@@ -1,0 +1,18 @@
+Now explaining the code in brief:
+import getpassThe getpass module in Python provides a way to read the user input without showing it on the display.
+The getpass module can be used to get a password or other sensitive information from the user.
+The getpass module in Python provides a way to securely read the user input without showing it on the
+console. The getpass module can be used to get a password or other sensitive information from the user.
+import numpy as npThe numpy module is a widely used Python library for numerical computations. It provides support for
+multi-dimensional arrays, matrices, and mathematical functions to manipulate these arrays. It is widely
+used in various scientific and engineering applications, such as data science, machine learning, signal processing, and more.
+Import cvThe cv2 module is a Python wrap for the OpenCV (Open Source Computer Vision Library) C++ library. It
+provides a wide range of functions for image and video processing, computer vision, and machine learning.
+Import osThe os module is a built-in Python module that provides a way to interact with the primary operating system. It provides a wide range of functions for working with files and dictionary, managing processes,and more.
+Import mathThe math module is a built-in Python module that provides a range of mathematical functions and constants.
+import randomThe random module is a built-in Python module that provides a range of functions for generating random numbers and sequences.
+import smtplibThe smtplib module is a built-in Python module that provides a way to send emails using the Simple Mail Transfer Protocol (SMTP).
+• SMTP Connection: smtplib provides a SMTP class that allows you to connect to an SMTP server and send emails using various methods.
+• Authentication: smtplib supports various authentication mechanisms, such as plain text authentication and secure authentication using Transport Layer Security (TLS) or Secure Sockets Layer (SSL).
+from skimage.metrics import structural_similarity as ssimThe skimage.metrics module is a part of the scikit-image library, which is a collection of algorithms for image processing in Python. The structural_similarity function in skimage.metrics is used to calculate the structural similarity index between two images.
+The structural similarity index is a measure of the similarity between two images, considering luminance, contrast, and structure. It returns a value between -1 and 1, where a value of 1 indicates that the two images are identical, and a value of -1 indicates that the two images are completely dissimilar.
